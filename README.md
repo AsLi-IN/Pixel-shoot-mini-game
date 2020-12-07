@@ -1,4 +1,2 @@
-# pixel-shoot-mini-game
-sample game
-needed highscore board
-needed game over screen
+#Pixel-shoot-mini-game
+sample game made using python pygames library
